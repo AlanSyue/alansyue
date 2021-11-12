@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlanSyue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanSyue&show_icons=true&theme=dark)
+
+
+
+
 <!--
 **AlanSyue/alansyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
