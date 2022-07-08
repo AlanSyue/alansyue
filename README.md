@@ -3,9 +3,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlanSyue)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanSyue&show_icons=true&theme=dark)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanSyue&show_icons=true&theme=dark)
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs?username=AlanSyue&layout=compact&langs_count=7&theme=slateorange)
 
 
 <!--
